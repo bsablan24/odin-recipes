@@ -5,9 +5,16 @@ background-color: rgb(219, 127, 127);
 h1 {
 font-size: 42px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+background-color: lightgreen;
 }
 
 h2 {
     font-size: 36px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
 }
