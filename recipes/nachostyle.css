@@ -12,6 +12,17 @@ h1 {
 h2 {
     font-size: 36px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+
+    font-size: 24px;
+}
+
+li {
+
+    font-style: oblique;
 }
 
 
